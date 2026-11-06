@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Manco;John Carlo;;;
+FN:John Carlo Manco
+ORG:Divergent Wealth Pty Ltd
+TITLE:Client Concierge
+TEL;TYPE=CELL:+61468132818
+EMAIL;TYPE=INTERNET,WORK:jc@divergentwealth.com.au
+URL:https://www.divergentwealth.com.au
+NOTE:Client Concierge at Divergent Wealth Pty Ltd
+END:VCARD

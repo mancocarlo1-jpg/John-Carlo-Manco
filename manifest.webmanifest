@@ -1,0 +1,10 @@
+{
+  "name": "John Carlo Manco | Divergent Wealth",
+  "short_name": "JC Manco",
+  "description": "Digital business card for John Carlo Manco, Client Concierge at Divergent Wealth Pty Ltd.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101918",
+  "theme_color": "#101918",
+  "icons": []
+}
